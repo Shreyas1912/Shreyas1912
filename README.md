@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a **Certified Data Analyst** passionate about 
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Shreyas Nagare](https://www.linkedin.com/in/shreyas-nagare)
-- **GitHub:** [ShreyasNagare](https://github.com/ShreyasNagare)
 
 ---
 
