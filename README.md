@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a **Certified Data Analyst** passionate about 
 
 ## 👨‍💻 About Me
 - **🌟 Certifications:**
-  - Certified Data Analyst (Datamites)
+  - Certified Data Analyst (IABAC)
+  -- Certified Data Analyst (Datamites)
   - Data Analyst Internship (Rubixe)
 - **🏢 Internship:** Completed a data analytics internship at Rubixe, working on projects like HR Analytics and Market Analytics.
 - **📊 Skills:**
